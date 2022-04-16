@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anastasiyapotard@gmail.com
+	name = Anastasiya Kim
